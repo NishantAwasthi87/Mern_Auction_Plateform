@@ -1,5 +1,5 @@
 import app from "./app.js";
-require('dotenv').config();
+
 import cloudinary from "cloudinary";
 
 cloudinary.v2.config({
