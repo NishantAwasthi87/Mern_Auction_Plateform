@@ -1,6 +1,6 @@
 import app from "./app.js";
 
-// import cloudinary from "cloudinary";
+import cloudinary from "cloudinary";
 import { v2 as cloudinary } from "cloudinary";
 
 
